@@ -31,7 +31,7 @@ which can be overridden for higher quality or better performance.
 
 * Easy to use
 * Minimal dependencies
-* simple ompany based uses
+* phase I company based uses
 * Images
 * Text
 * Clipping
